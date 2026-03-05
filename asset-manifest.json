@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/path-bingo/static/css/main.cb5efdfc.chunk.css",
-    "main.js": "/path-bingo/static/js/main.1780d65e.chunk.js",
-    "main.js.map": "/path-bingo/static/js/main.1780d65e.chunk.js.map",
-    "runtime-main.js": "/path-bingo/static/js/runtime-main.913d9d9b.js",
-    "runtime-main.js.map": "/path-bingo/static/js/runtime-main.913d9d9b.js.map",
-    "static/js/2.3a2a6e1f.chunk.js": "/path-bingo/static/js/2.3a2a6e1f.chunk.js",
-    "static/js/2.3a2a6e1f.chunk.js.map": "/path-bingo/static/js/2.3a2a6e1f.chunk.js.map",
-    "index.html": "/path-bingo/index.html",
-    "precache-manifest.4724cf62dbd7e43fd07034e461897111.js": "/path-bingo/precache-manifest.4724cf62dbd7e43fd07034e461897111.js",
-    "service-worker.js": "/path-bingo/service-worker.js",
-    "static/css/main.cb5efdfc.chunk.css.map": "/path-bingo/static/css/main.cb5efdfc.chunk.css.map",
-    "static/js/2.3a2a6e1f.chunk.js.LICENSE.txt": "/path-bingo/static/js/2.3a2a6e1f.chunk.js.LICENSE.txt"
+    "main.css": "/path-bingo-old-generator/static/css/main.cb5efdfc.chunk.css",
+    "main.js": "/path-bingo-old-generator/static/js/main.341c0d07.chunk.js",
+    "main.js.map": "/path-bingo-old-generator/static/js/main.341c0d07.chunk.js.map",
+    "runtime-main.js": "/path-bingo-old-generator/static/js/runtime-main.3bed593c.js",
+    "runtime-main.js.map": "/path-bingo-old-generator/static/js/runtime-main.3bed593c.js.map",
+    "static/js/2.3b453d4a.chunk.js": "/path-bingo-old-generator/static/js/2.3b453d4a.chunk.js",
+    "static/js/2.3b453d4a.chunk.js.map": "/path-bingo-old-generator/static/js/2.3b453d4a.chunk.js.map",
+    "index.html": "/path-bingo-old-generator/index.html",
+    "precache-manifest.e91d2bf3fc6cedcd4c8de6bcfafc2f8e.js": "/path-bingo-old-generator/precache-manifest.e91d2bf3fc6cedcd4c8de6bcfafc2f8e.js",
+    "service-worker.js": "/path-bingo-old-generator/service-worker.js",
+    "static/css/main.cb5efdfc.chunk.css.map": "/path-bingo-old-generator/static/css/main.cb5efdfc.chunk.css.map",
+    "static/js/2.3b453d4a.chunk.js.LICENSE.txt": "/path-bingo-old-generator/static/js/2.3b453d4a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.913d9d9b.js",
-    "static/js/2.3a2a6e1f.chunk.js",
+    "static/js/runtime-main.3bed593c.js",
+    "static/js/2.3b453d4a.chunk.js",
     "static/css/main.cb5efdfc.chunk.css",
-    "static/js/main.1780d65e.chunk.js"
+    "static/js/main.341c0d07.chunk.js"
   ]
 }
