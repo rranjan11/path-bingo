@@ -9,7 +9,7 @@ if (seed === -1) {
     window.location.href = `?seed=${Math.floor(Math.random() * 999999)}`
 }
 
-const goals = generateBoard(seed, "path");
+const goals = generateBoard(seed, "blackout");
 
 
 function BingoCard() {
